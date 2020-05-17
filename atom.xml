@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Dhruv</title>
+  
+  <subtitle>Lets be the best version of ourselves</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://localhost:4000/"/>
+  <updated>2020-05-15T11:34:18.597Z</updated>
+  <id>http://localhost:4000/</id>
+  
+  <author>
+    <name>John Doe</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>My third post</title>
+    <link href="http://localhost:4000/2020/05/My-third-post/"/>
+    <id>http://localhost:4000/2020/05/My-third-post/</id>
+    <published>2020-05-15T11:07:47.000Z</published>
+    <updated>2020-05-15T11:34:18.597Z</updated>
+    
+    <content type="html"><![CDATA[<figure class = "left col-md-6">    ![football-field](/images/football-field.jpg)    <figcaption>        Here is our ground!    </figcaption></figure>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;figure class = &quot;left col-md-6&quot;&gt;
+    ![football-field](/images/football-field.jpg)
+    &lt;figcaption&gt;
+        Here is our ground!
+    &lt;/figcap
+      
+    
+    </summary>
+    
+    
+    
+      <category term="Ground" scheme="http://localhost:4000/tags/Ground/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>My second blog</title>
+    <link href="http://localhost:4000/2020/05/My-second-blog/"/>
+    <id>http://localhost:4000/2020/05/My-second-blog/</id>
+    <published>2020-05-14T08:42:52.000Z</published>
+    <updated>2020-05-14T08:42:52.578Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>My first Blog</title>
+    <link href="http://localhost:4000/2020/05/My-first-Blog/"/>
+    <id>http://localhost:4000/2020/05/My-first-Blog/</id>
+    <published>2020-05-14T08:19:50.000Z</published>
+    <updated>2020-05-14T08:24:29.871Z</updated>
+    
+    <content type="html"><![CDATA[<p>This  is my first ever blog post!</p><h2 id="Welcome"><a href="#Welcome" class="headerlink" title="Welcome!"></a>Welcome!</h2><p>Welcome to our blog!</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;This  is my first ever blog post!&lt;/p&gt;
+&lt;h2 id=&quot;Welcome&quot;&gt;&lt;a href=&quot;#Welcome&quot; class=&quot;headerlink&quot; title=&quot;Welcome!&quot;&gt;&lt;/a&gt;Welcome!&lt;/h2&gt;&lt;p&gt;Welcome
+      
+    
+    </summary>
+    
+    
+    
+      <category term="Greetings" scheme="http://localhost:4000/tags/Greetings/"/>
+    
+      <category term="Hello World" scheme="http://localhost:4000/tags/Hello-World/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://localhost:4000/2020/05/hello-world/"/>
+    <id>http://localhost:4000/2020/05/hello-world/</id>
+    <published>2020-05-14T04:24:09.487Z</published>
+    <updated>2020-05-14T08:25:39.099Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      
+    
+    </summary>
+    
+    
+    
+      <category term="Greetings" scheme="http://localhost:4000/tags/Greetings/"/>
+    
+  </entry>
+  
+</feed>
